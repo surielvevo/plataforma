@@ -1,0 +1,13 @@
+src/
+├── config/
+│   └── database.js
+├── controllers/
+│   └── authController.js
+├── middleware/
+│   └── auth.js
+├── models/
+│   ├── User.js
+│   └── Investigation.js
+├── routes/
+│   └── api.js
+└── index.js 
