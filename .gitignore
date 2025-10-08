@@ -1,0 +1,4 @@
+node_modules/
+plataforma/node_modules/
+plataforma/client/node_modules/
+__pycache__/
